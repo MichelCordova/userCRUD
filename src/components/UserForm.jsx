@@ -14,6 +14,7 @@ const UserForm = ({createUser, updateUser, editUser, setUpdateUser, isOpen, setI
         reset(updateUser);
         setIsOpen(true);
       }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [updateUser])
     
 
