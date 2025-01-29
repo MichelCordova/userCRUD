@@ -1,8 +1,21 @@
-# React + Vite
+User CRUD 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Descripción
+Aplicación web que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre usuarios. Desarrollada con React, esta aplicación consume una API para gestionar los datos de los usuarios. Los usuarios pueden ser añadidos, visualizados, modificados y eliminados de la base de datos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologías Utilizadas
+Frontend: React
+Lenguaje: JavaScript 
+
+Características
+Interfaz de usuario interactiva para gestionar usuarios.
+Consume una API externa para realizar las operaciones CRUD.
+Validaciones de formularios y manejo de errores.
+Funcionalidad para agregar, editar, eliminar y listar usuarios.
+
+
+⚙Instalación
+Requisitos Previos
+Node.js (versión 16 o superior)
+npm o yarn para gestionar dependencias
